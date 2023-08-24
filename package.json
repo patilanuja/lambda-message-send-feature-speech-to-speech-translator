@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-sqs": "^3.303.0",
+    "pg": "^8.10.0"
+  }
+}
